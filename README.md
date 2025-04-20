@@ -1,20 +1,17 @@
-# TTSGUI
-A mod for Gorilla Tag that lets you speak TTS through your microphone.
-
-## ⚠️ WARNING!
-This mod requires [ii's Stupid Menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu).
+# TFSpeak
+A mod that changes for voice into TTS through voice commands
 
 ---
 
 # Controls
-- Type and Speak: Slash
+- Say: TFS then say what you want to come out your microphone
 
 ---
 
 # Installation
 
-- Download the release from [here](https://github.com/iiDk-the-actual/TTSGUI/releases/latest)
-- Drag the file `TTSGUI.dll` to your plugins folder
-- Start Gorilla Tag if needed
+- Download the release from [here](https://github.com/ThatGuy5312/TFSpeak/releases/latest)
+- Drag the file `TFSpeak.dll` to your plugins folder
+- Start Gorilla Tag
 
 > This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2024 Another Axiom LLC.
